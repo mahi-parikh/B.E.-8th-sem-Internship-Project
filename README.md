@@ -1,5 +1,6 @@
 # Hate Speech Detection Web App
 
+This project was part of Bachelor's of Engineering 8th semester internship.
 This project focuses on applying Machine Learning techniques to categorize a piece of text into three distinct categories, which are "hate speech", "offensive language" and "neither".
 
 The predictive model is then deployed in a Web App, allowing users to enter any text they please in order to get a prediction about its category. 
