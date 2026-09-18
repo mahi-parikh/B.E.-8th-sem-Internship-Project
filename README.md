@@ -1,6 +1,6 @@
 # Hate Speech Detection Web App
 
-This project was part of Bachelor's of Engineering 8th semester internship.
+This project was part of Bachelor's of Engineering 8th semester internship Jan. to April 2024.
 
 This project focuses on applying Machine Learning techniques to categorize a piece of text into three distinct categories, which are "hate speech", "offensive language" and "neither".
 
